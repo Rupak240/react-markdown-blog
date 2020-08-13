@@ -1,0 +1,20 @@
+.postlist {
+    width: 45%;
+    margin: auto;
+    text-align: center;
+}
+
+.page-content {
+    width: 40%;
+    margin: auto;
+    text-align: center;
+}
+
+.notfound {
+    text-align: center;
+}
+
+.post {
+    width: 40%;
+    margin: auto;
+}
